@@ -1,4 +1,10 @@
 # Python Basic Syntax Practice
 
-이 저장소는 파이썬 기초 문법을 연습하기 위한 예제를 포함하고 있습니다.  
 This repository contains examples for practicing basic Python syntax.
+
+## Contents
+
+- `exercise1.py`: semicolon, backslash, built-in functions
+- `exercise2.py`: type, keyword, complex numbers, escape sequences, isinstance, comma operator
+- `exercise3.py`: identity, built-in functions (pow, abs, round, bin, int, ord, chr)
+- `exercise4.py`: string indexing, slicing, sequence functions, string methods, formatting
