@@ -9,3 +9,4 @@ This repository contains examples for practicing basic Python syntax.
 - `python_3.py`: identity, built-in functions (pow, abs, round, bin, int, ord, chr)
 - `python_4.py`: string indexing, slicing, sequence functions, string methods, formatting
 - `python_5.py`: list unpacking, list methods, shallow copy, deep copy
+- `python_6.py`: set operations, dict creation, OrderedDict usage
